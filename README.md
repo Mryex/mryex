@@ -5,10 +5,10 @@ const Developer = {
     coding: {
       Lua: "5 years",
       Python: "3 years",
-      CSharp: "5 years",
+      C#: "5 years",
       C++: "2 years",
       HTML: "4 years",
-      Electron: "3 months"
+      ElectronJS: "3 months"
     },
     security: {
       Linux: "3 years"
