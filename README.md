@@ -6,7 +6,7 @@ const Developer = {
       Lua: "5 years",
       Python: "3 years",
       CSharp: "5 years",
-      Cpp: "2 years",
+      C++: "2 years",
       HTML: "4 years",
       Electron: "3 months"
     },
