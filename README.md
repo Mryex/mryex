@@ -17,8 +17,8 @@ const Developer = {
   focus: ["Fullstack Development", "Game Development", "Cyber Security"],
   learning: ["Rust", "System Design", "Advanced Security"],
   contact: {
-    discord: "mryex#0000",
-    email: "example@mail.com"
+    discord: "mryex1",
+    email: "mryexofficial@hotmail.com"
   }
 };
 
